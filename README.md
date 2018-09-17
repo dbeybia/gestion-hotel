@@ -1,6 +1,6 @@
 # gestion-hotel
 
-Un mini projet pour faire la gestion des reservations dans un hotel developpé en Java.
+Un mini projet pour faire la gestion des reservations dans un hotel developpé en Java et MySQL.
 
 Fonctionalités  :
 
